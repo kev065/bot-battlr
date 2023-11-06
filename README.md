@@ -17,9 +17,9 @@ This app built using React is a simple tool for custom building your own bot Arm
 
 ### Common errors
 You might get an OpenSSL error if you're using Node JS v17 and later versions. To fix this type the following commands: 
-`export NODE_OPTIONS=--openssl-legacy-provider` for macOS, Linux or Windows Git Bash.
-`set NODE_OPTIONS=--openssl-legacy-provider` for Windows Command Prompt.
-`$env:NODE_OPTIONS="--openssl-legacy-provider"` for Windows Power Shell.
+- `export NODE_OPTIONS=--openssl-legacy-provider` for macOS, Linux or Windows Git Bash.
+- `set NODE_OPTIONS=--openssl-legacy-provider` for Windows Command Prompt.
+- `$env:NODE_OPTIONS="--openssl-legacy-provider"` for Windows Power Shell.
 
 ### Technologies used 
 - React
